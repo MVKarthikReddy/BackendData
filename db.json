@@ -1,0 +1,1376 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-08-22"
+      },
+      {
+        "id": 2,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-23"    
+      },
+      {
+        "id": 3,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2024-01-22"
+      },
+      {
+        "id": 4,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-12-02"    
+      },
+      {
+        "id": 5,
+        "title": "Island House",
+        "description": "Stunning house with astonishing beach view",
+        "price": 250000,
+        "location": "Newyork,USA",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-09-12"
+      },
+      {
+        "id": 6,
+        "title": "Park View",
+        "description": "Pleasant atmosphere with full of fresh air",
+        "price": 350000,
+        "location": "123 Mating Land",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-23"    
+      },
+      {
+        "id": 7,
+        "title": "Maya Bangla",
+        "description": "Roman interior",
+        "price": 250000,
+        "location": "South Dacota",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-08-22"
+      },
+      {
+        "id":8,
+        "title": "Cottage cute",
+        "description": "Beatiful house with a swimming pool",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-08-15"    
+      },
+      {
+        "id": 9,
+        "title": "Luxury Condo with a View",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 250000,
+        "location": "456 Elm Avenue",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-29"
+      },
+      {
+        "id": 10,
+        "title": "Park Avenue",
+        "description": "Sleek 1-bedroom apartment with city views.",
+        "price": 350000,
+        "location": "23 Jasmine Road,France",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-08-22"    
+      },
+      {
+        "id": 11,
+        "title": "Multi cusine Home",
+        "description": "4-bedroom home in a peaceful neighborhood with fresh air.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-08-22"
+      },
+      {
+        "id": 12,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-23"    
+      },
+      {
+        "id": 13,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-10-23"
+      },
+      {
+        "id": 14,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-11-09"    
+      },
+      {
+        "id": 15,
+        "title": "Island House",
+        "description": "Stunning house with panoramic city views.",
+        "price": 250000,
+        "location": "Boston, USA",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-10"
+      },
+      {
+        "id": 16,
+        "title": "Beautiful Family Home",
+        "description": "Pleasant atmosphere with full of fresh air",
+        "price": 350000,
+        "location": "Serengiti,Africa",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-11-01"    
+      },
+      {
+        "id": 17,
+        "title": "New Blocks",
+        "description": "Sunshine makes you shine",
+        "price": 250000,
+        "location": "England",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-01"
+      },
+      {
+        "id":18,
+        "title": "Adheera Lands",
+        "description": "An apartment with luxury",
+        "price": 350000,
+        "location": "Californea,USA",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-02"    
+      },
+      {
+        "id": 19,
+        "title": "Avengers Adda",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-09-05"
+      },
+      {
+        "id": 20,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-10"    
+      },
+      {
+        "id": 21,
+        "title": "Cozy Cottage",
+        "description": "Charming 2-bedroom cottage in a peaceful neighborhood.",
+        "price": 225000,
+        "location": "123 Maple Street",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "1 bathroom", "Garden"],
+        "size": {
+          "unit": "sqft",
+          "value": 1200
+        },
+        "year_built": 1985,
+        "is_featured": true
+      },
+      {
+        "id": 22,
+        "title": "Modern Apartment",
+        "description": "Sleek 1-bedroom apartment with city views.",
+        "price": 180000,
+        "location": "456 Elm Avenue",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["1 bedroom", "1 bathroom", "Balcony"],
+        "size": {
+          "unit": "sqft",
+          "value": 800
+        },
+        "year_built": 2010,
+        "is_featured": false
+      },
+      {
+        "id": 23,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-10-03"
+      },
+      {
+        "id": 24,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-11-03"    
+      },
+      {
+        "id": 25,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-03"
+      },
+      {
+        "id": 26,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-11"    
+      },
+      {
+        "id": 27,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-09-19"
+      },
+      {
+        "id":28,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-18"    
+      },
+      {
+        "id": 29,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-25"
+      },
+      {
+        "id": 30,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-26"    
+      },
+      {
+        "id": 31,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-12-25"
+      },
+      {
+        "id": 32,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-19"    
+      },
+      {
+        "id": 33,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-012-28"
+      },
+      {
+        "id": 34,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-12-05"    
+      },
+      {
+        "id": 35,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-01"
+      },
+      {
+        "id": 36,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-15"    
+      },
+      {
+        "id": 37,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-14"
+      },
+      {
+        "id":38,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-16"    
+      },
+      {
+        "id": 39,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-20"
+      },
+      {
+        "id": 40,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-25"    
+      },
+      {
+        "id": 41,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-12-27"
+      },
+      {
+        "id": 42,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-08-26"    
+      },
+      {
+        "id": 43,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-08-27"
+      },
+      {
+        "id": 44,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-09-09"    
+      },
+      {
+        "id": 45,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-12"
+      },
+      {
+        "id": 46,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-08"    
+      },
+      {
+        "id": 47,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-19"
+      },
+      {
+        "id":48,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-29"    
+      },
+      {
+        "id": 49,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-19"
+      },
+      {
+        "id": 50,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-18"    
+      },
+      {
+        "id": 51,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-10-15"
+      },
+      {
+        "id": 52,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-02"    
+      },
+      {
+        "id": 53,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-12-09"
+      },
+      {
+        "id": 54,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-12-11"    
+      },
+      {
+        "id": 55,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-09-14"
+      },
+      {
+        "id": 56,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-11"    
+      },
+      {
+        "id": 57,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-09-30"
+      },
+      {
+        "id":58,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-31"    
+      },
+      {
+        "id": 59,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-31"
+      },
+      {
+        "id": 60,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Maui,USA",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-19"    
+      },
+      {
+        "id": 61,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-09-01"
+      },
+      {
+        "id": 62,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-20"    
+      },
+      {
+        "id": 63,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-11-09"
+      },
+      {
+        "id": 64,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-10-13"    
+      },
+      {
+        "id": 65,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-13"
+      },
+      {
+        "id": 66,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-19"    
+      },
+      {
+        "id": 67,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-29"
+      },
+      {
+        "id":68,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-12"    
+      },
+      {
+        "id": 69,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-29"
+      },
+      {
+        "id": 70,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Maui,USA",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-19-02"    
+      },
+      {
+        "id": 71,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-08-24"
+      },
+      {
+        "id": 72,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-09-25"    
+      },
+      {
+        "id": 73,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-12-24"
+      },
+      {
+        "id": 74,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-09-29"    
+      },
+      {
+        "id": 75,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-08-27"
+      },
+      {
+        "id": 76,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-28"    
+      },
+      {
+        "id": 77,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Maui,USA",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-01"
+      },
+      {
+        "id":78,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-12-31"    
+      },
+      {
+        "id": 79,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-11-20"
+      },
+      {
+        "id": 80,
+        "title": "Maui,USA",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-11-23"    
+      },
+      {
+        "id": 81,
+        "title": "Spacious Family Home",
+        "description": "4-bedroom home in a peaceful neighborhood.",
+        "price": 425000,
+        "location": "1234 Oak Avenue, Suburbia",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2800
+        },
+        "moving-date": "2023-09-24"
+      },
+      {
+        "id": 82,
+        "title": "Modern Downtown Loft",
+        "description": "Stylish loft with urban living vibes.",
+        "price": 620000,
+        "location": "789 Urban Street, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-10-19"    
+      },
+      {
+        "id": 83,
+        "title": "Beautiful Family Home",
+        "description": "Spacious 4-bedroom home in a quiet neighborhood.",
+        "price": 350000,
+        "location": "123 Main St, Exampleville",
+        "images": [
+          "https://example.com/images/property1/image1.jpg",
+          "https://example.com/images/property1/image2.jpg"
+        ],
+        "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
+        "size": {
+          "unit": "sqft",
+          "value": 2500
+        },
+        "moving-date": "2023-09-13"
+      },
+      {
+        "id": 84,
+        "title": "Luxury Condo with a View",
+        "description": "Stunning condo with panoramic city views.",
+        "price": 750000,
+        "location": "456 Downtown Ave, Cityville",
+        "images": [
+          "https://example.com/images/property2/image1.jpg",
+          "https://example.com/images/property2/image2.jpg"
+        ],
+        "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
+        "size": {
+          "unit": "sqft",
+          "value": 1500
+        },
+        "moving-date": "2023-12-18"    
+      },
+      {
+        "id": 85,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-12-19"
+      },
+      {
+        "id": 86,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Property Location 2",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-11-19"    
+      },
+      {
+        "id": 87,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-25"
+      },
+      {
+        "id":88,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Maui,USA",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-08-13"    
+      },
+      {
+        "id": 89,
+        "title": "Property Title 1",
+        "description": "Property description...",
+        "price": 250000,
+        "location": "Property Location 1",
+        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 2000
+        },
+        "moving-date": "2023-10-04"
+      },
+      {
+        "id": 90,
+        "title": "Property Title 2",
+        "description": "Property description...",
+        "price": 350000,
+        "location": "Maui,USA",
+        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "features": ["Feature 1", "Feature 2", "Feature 3"],
+        "size": {
+          "unit": "sqft",
+          "value": 1800
+        },
+        "moving-date": "2023-11-22"    
+      }
+      
+    ]
+  }
+  

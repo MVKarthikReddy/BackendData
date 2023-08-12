@@ -7,8 +7,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -24,8 +24,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -41,8 +41,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -58,8 +58,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -74,7 +74,7 @@
         "description": "Stunning house with astonishing beach view",
         "price": 250000,
         "location": "Newyork,USA",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -88,7 +88,7 @@
         "description": "Pleasant atmosphere with full of fresh air",
         "price": 350000,
         "location": "123 Mating Land",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -102,7 +102,7 @@
         "description": "Roman interior",
         "price": 250000,
         "location": "South Dacota",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -116,7 +116,7 @@
         "description": "Beatiful house with a swimming pool",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -130,7 +130,7 @@
         "description": "Stylish loft with urban living vibes.",
         "price": 250000,
         "location": "456 Elm Avenue",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -144,7 +144,7 @@
         "description": "Sleek 1-bedroom apartment with city views.",
         "price": 350000,
         "location": "23 Jasmine Road,France",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -159,8 +159,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -176,8 +176,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -193,8 +193,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -210,8 +210,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -226,7 +226,7 @@
         "description": "Stunning house with panoramic city views.",
         "price": 250000,
         "location": "Boston, USA",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -240,7 +240,7 @@
         "description": "Pleasant atmosphere with full of fresh air",
         "price": 350000,
         "location": "Serengiti,Africa",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -254,7 +254,7 @@
         "description": "Sunshine makes you shine",
         "price": 250000,
         "location": "England",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -268,7 +268,7 @@
         "description": "An apartment with luxury",
         "price": 350000,
         "location": "Californea,USA",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -282,7 +282,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -296,7 +296,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -311,8 +311,8 @@
         "price": 225000,
         "location": "123 Maple Street",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "1 bathroom", "Garden"],
         "size": {
@@ -329,8 +329,8 @@
         "price": 180000,
         "location": "456 Elm Avenue",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["1 bedroom", "1 bathroom", "Balcony"],
         "size": {
@@ -347,8 +347,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -364,8 +364,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -380,7 +380,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -394,7 +394,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -408,7 +408,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -422,7 +422,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -436,7 +436,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -450,7 +450,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -465,8 +465,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -482,8 +482,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -499,8 +499,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -516,8 +516,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -532,7 +532,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -546,7 +546,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -560,7 +560,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -574,7 +574,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -588,7 +588,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -602,7 +602,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -617,8 +617,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -634,8 +634,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -651,8 +651,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -668,8 +668,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -684,7 +684,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -698,7 +698,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -712,7 +712,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -726,7 +726,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -740,7 +740,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -754,7 +754,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -769,8 +769,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -786,8 +786,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -803,8 +803,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -820,8 +820,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -836,7 +836,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -850,7 +850,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -864,7 +864,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -878,7 +878,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -892,7 +892,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -906,7 +906,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Maui,USA",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -921,8 +921,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -938,8 +938,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -955,8 +955,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -972,8 +972,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -988,7 +988,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1002,7 +1002,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1016,7 +1016,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1030,7 +1030,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1044,7 +1044,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1058,7 +1058,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Maui,USA",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1073,8 +1073,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -1090,8 +1090,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -1107,8 +1107,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -1124,8 +1124,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -1140,7 +1140,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1154,7 +1154,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1168,7 +1168,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Maui,USA",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1182,7 +1182,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1196,7 +1196,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1210,7 +1210,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1225,8 +1225,8 @@
         "price": 425000,
         "location": "1234 Oak Avenue, Suburbia",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "3 bathrooms", "2-car garage"],
         "size": {
@@ -1242,8 +1242,8 @@
         "price": 620000,
         "location": "789 Urban Street, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2.5 bathrooms", "Open floor plan"],
         "size": {
@@ -1259,8 +1259,8 @@
         "price": 350000,
         "location": "123 Main St, Exampleville",
         "images": [
-          "https://example.com/images/property1/image1.jpg",
-          "https://example.com/images/property1/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["4 bedrooms", "2.5 bathrooms", "2-car garage"],
         "size": {
@@ -1276,8 +1276,8 @@
         "price": 750000,
         "location": "456 Downtown Ave, Cityville",
         "images": [
-          "https://example.com/images/property2/image1.jpg",
-          "https://example.com/images/property2/image2.jpg"
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg",
+          "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"
         ],
         "features": ["2 bedrooms", "2 bathrooms", "Modern amenities"],
         "size": {
@@ -1292,7 +1292,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1306,7 +1306,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Property Location 2",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1320,7 +1320,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1334,7 +1334,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Maui,USA",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1348,7 +1348,7 @@
         "description": "Property description...",
         "price": 250000,
         "location": "Property Location 1",
-        "images": ["image_url_1_1.jpg", "image_url_1_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",
@@ -1362,7 +1362,7 @@
         "description": "Property description...",
         "price": 350000,
         "location": "Maui,USA",
-        "images": ["image_url_2_1.jpg", "image_url_2_2.jpg"],
+        "images": ["https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg", "https://w0.peakpx.com/wallpaper/199/974/HD-wallpaper-beautiful-house-beautiful-home-house-luxury.jpg"],
         "features": ["Feature 1", "Feature 2", "Feature 3"],
         "size": {
           "unit": "sqft",

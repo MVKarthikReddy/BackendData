@@ -16,7 +16,8 @@
           "value": 2800
         },
         "date": "2023-08-22",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 2,
@@ -34,7 +35,8 @@
           "value": 1800
         },
         "date": "2023-09-23",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 3,
@@ -52,7 +54,8 @@
           "value": 2500
         },
         "date": "2024-01-22",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 4,
@@ -70,7 +73,8 @@
           "value": 1500
         },
         "date": "2023-12-02",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 5,
@@ -85,7 +89,8 @@
           "value": 2000
         },
         "date": "2023-09-12",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 6,
@@ -100,7 +105,8 @@
           "value": 1800
         },
         "date": "2023-10-23",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 7,
@@ -115,7 +121,8 @@
           "value": 2000
         },
         "date": "2023-08-22",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":8,
@@ -130,7 +137,8 @@
           "value": 1800
         },
         "date": "2023-08-15",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 9,
@@ -145,7 +153,8 @@
           "value": 2000
         },
         "date": "2023-11-29",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 10,
@@ -160,7 +169,8 @@
           "value": 1800
         },
         "date": "2023-08-22",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 11,
@@ -179,7 +189,8 @@
         },
         "date": "2023-08-22",
         "type": "buy"
-      },
+,
+"propertyType":"house"      },
       {
         "id": 12,
         "title": "Modern Downtown Loft",
@@ -196,7 +207,8 @@
           "value": 1800
         },
         "date": "2023-09-23",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 13,
@@ -214,7 +226,8 @@
           "value": 2500
         },
         "date": "2023-10-23",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 14,
@@ -232,7 +245,8 @@
           "value": 1500
         },
         "date": "2023-11-09",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 15,
@@ -247,7 +261,8 @@
           "value": 2000
         },
         "date": "2023-11-10",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 16,
@@ -262,7 +277,8 @@
           "value": 1800
         },
         "date": "2023-11-01",
-        "type": "buy"    
+        "type": "buy" ,
+        "propertyType":"house"   
       },
       {
         "id": 17,
@@ -277,7 +293,8 @@
           "value": 2000
         },
         "date": "2023-12-01",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":18,
@@ -292,7 +309,8 @@
           "value": 1800
         },
         "date": "2023-09-02",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 19,
@@ -307,7 +325,8 @@
           "value": 2000
         },
         "date": "2023-09-05",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 20,
@@ -322,7 +341,8 @@
           "value": 1800
         },
         "date": "2023-09-10",
-        "type": "buy"    
+        "type": "buy" ,
+        "propertyType":"house"   
       },
       {
         "id": 21,
@@ -376,7 +396,8 @@
           "value": 2500
         },
         "date": "2023-10-03",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 24,
@@ -394,7 +415,8 @@
           "value": 1500
         },
         "date": "2023-11-03",
-        "type": "buy"    
+        "type": "buy" ,
+        "propertyType":"house"   
       },
       {
         "id": 25,
@@ -409,7 +431,8 @@
           "value": 2000
         },
         "date": "2023-11-03",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 26,
@@ -424,7 +447,8 @@
           "value": 1800
         },
         "date": "2023-09-11",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 27,
@@ -439,7 +463,8 @@
           "value": 2000
         },
         "date": "2023-09-19",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":28,
@@ -454,7 +479,8 @@
           "value": 1800
         },
         "date": "2023-09-18",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 29,
@@ -470,7 +496,8 @@
         },
         "date": "2023-10-25",
         "type": "buy"
-      },
+,
+"propertyType":"house"      },
       {
         "id": 30,
         "title": "Property Title 2",
@@ -484,7 +511,8 @@
           "value": 1800
         },
         "date": "2023-10-26",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 31,
@@ -502,7 +530,8 @@
           "value": 2800
         },
         "date": "2023-12-25",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 32,
@@ -520,7 +549,8 @@
           "value": 1800
         },
         "date": "2023-12-19",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 33,
@@ -538,7 +568,8 @@
           "value": 2500
         },
         "date": "2023-012-28",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 34,
@@ -556,7 +587,8 @@
           "value": 1500
         },
         "date": "2023-12-05",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 35,
@@ -572,7 +604,8 @@
         },
         "date": "2023-12-01",
         "type": "buy"
-      },
+,
+"propertyType":"house"      },
       {
         "id": 36,
         "title": "Property Title 2",
@@ -586,7 +619,8 @@
           "value": 1800
         },
         "date": "2023-12-15",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 37,
@@ -601,7 +635,8 @@
           "value": 2000
         },
         "date": "2023-12-14",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":38,
@@ -616,7 +651,8 @@
           "value": 1800
         },
         "date": "2023-12-16",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 39,
@@ -631,7 +667,8 @@
           "value": 2000
         },
         "date": "2023-12-20",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 40,
@@ -646,7 +683,8 @@
           "value": 1800
         },
         "date": "2023-12-25",
-        "type": "buy"    
+        "type": "buy" ,
+        "propertyType":"house"   
       },
       {
         "id": 41,
@@ -664,7 +702,8 @@
           "value": 2800
         },
         "date": "2023-12-27",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 42,
@@ -682,7 +721,8 @@
           "value": 1800
         },
         "date": "2023-08-26",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 43,
@@ -700,7 +740,8 @@
           "value": 2500
         },
         "date": "2023-08-27",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 44,
@@ -718,7 +759,8 @@
           "value": 1500
         },
         "date": "2023-09-09",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 45,
@@ -733,7 +775,8 @@
           "value": 2000
         },
         "date": "2023-10-12",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 46,
@@ -748,7 +791,8 @@
           "value": 1800
         },
         "date": "2023-10-08",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 47,
@@ -763,7 +807,8 @@
           "value": 2000
         },
         "date": "2023-11-19",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":48,
@@ -778,7 +823,8 @@
           "value": 1800
         },
         "date": "2023-09-29",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 49,
@@ -793,7 +839,8 @@
           "value": 2000
         },
         "date": "2023-12-19",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 50,
@@ -808,7 +855,8 @@
           "value": 1800
         },
         "date": "2023-09-18",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 51,
@@ -826,7 +874,8 @@
           "value": 2800
         },
         "date": "2023-10-15",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 52,
@@ -844,7 +893,8 @@
           "value": 1800
         },
         "date": "2023-12-02",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 53,
@@ -862,7 +912,8 @@
           "value": 2500
         },
         "date": "2023-12-09",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 54,
@@ -880,7 +931,8 @@
           "value": 1500
         },
         "date": "2023-12-11",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 55,
@@ -895,7 +947,8 @@
           "value": 2000
         },
         "date": "2023-09-14",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 56,
@@ -910,7 +963,8 @@
           "value": 1800
         },
         "date": "2023-09-11",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 57,
@@ -925,7 +979,8 @@
           "value": 2000
         },
         "date": "2023-09-30",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":58,
@@ -940,7 +995,8 @@
           "value": 1800
         },
         "date": "2023-10-31",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 59,
@@ -955,7 +1011,8 @@
           "value": 2000
         },
         "date": "2023-10-31",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 60,
@@ -970,7 +1027,8 @@
           "value": 1800
         },
         "date": "2023-09-19",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 61,
@@ -988,7 +1046,8 @@
           "value": 2800
         },
         "date": "2023-09-01",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 62,
@@ -1006,7 +1065,8 @@
           "value": 1800
         },
         "date": "2023-10-20",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 63,
@@ -1024,7 +1084,8 @@
           "value": 2500
         },
         "date": "2023-11-09",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 64,
@@ -1042,7 +1103,8 @@
           "value": 1500
         },
         "date": "2023-10-13",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 65,
@@ -1057,7 +1119,8 @@
           "value": 2000
         },
         "date": "2023-11-13",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 66,
@@ -1072,7 +1135,8 @@
           "value": 1800
         },
         "date": "2023-09-19",
-        "type": "buy"    
+        "type": "buy" ,
+        "propertyType":"villa"   
       },
       {
         "id": 67,
@@ -1087,7 +1151,8 @@
           "value": 2000
         },
         "date": "2023-10-29",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":68,
@@ -1102,7 +1167,8 @@
           "value": 1800
         },
         "date": "2023-10-12",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 69,
@@ -1117,7 +1183,8 @@
           "value": 2000
         },
         "date": "2023-10-29",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"apartment"
       },
       {
         "id": 70,
@@ -1132,7 +1199,8 @@
           "value": 1800
         },
         "date": "2023-19-02",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 71,
@@ -1150,7 +1218,8 @@
           "value": 2800
         },
         "date": "2023-08-24",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 72,
@@ -1168,7 +1237,8 @@
           "value": 1800
         },
         "date": "2023-09-25",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"apartment"    
       },
       {
         "id": 73,
@@ -1186,7 +1256,8 @@
           "value": 2500
         },
         "date": "2023-12-24",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 74,
@@ -1204,7 +1275,8 @@
           "value": 1500
         },
         "date": "2023-09-29",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 75,
@@ -1219,7 +1291,8 @@
           "value": 2000
         },
         "date": "2023-08-27",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 76,
@@ -1234,7 +1307,8 @@
           "value": 1800
         },
         "date": "2023-12-28",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"apartment"    
       },
       {
         "id": 77,
@@ -1249,7 +1323,8 @@
           "value": 2000
         },
         "date": "2023-10-01",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":78,
@@ -1264,7 +1339,8 @@
           "value": 1800
         },
         "date": "2023-12-31",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 79,
@@ -1279,7 +1355,8 @@
           "value": 2000
         },
         "date": "2023-11-20",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 80,
@@ -1294,7 +1371,8 @@
           "value": 1800
         },
         "date": "2023-11-23",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"villa"    
       },
       {
         "id": 81,
@@ -1312,7 +1390,8 @@
           "value": 2800
         },
         "date": "2023-09-24",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"villa"
       },
       {
         "id": 82,
@@ -1330,7 +1409,8 @@
           "value": 1800
         },
         "date": "2023-10-19",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"villa"    
       },
       {
         "id": 83,
@@ -1348,7 +1428,8 @@
           "value": 2500
         },
         "date": "2023-09-13",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 84,
@@ -1366,7 +1447,8 @@
           "value": 1500
         },
         "date": "2023-12-18",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 85,
@@ -1381,7 +1463,8 @@
           "value": 2000
         },
         "date": "2023-12-19",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 86,
@@ -1396,7 +1479,8 @@
           "value": 1800
         },
         "date": "2023-11-19",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 87,
@@ -1411,7 +1495,8 @@
           "value": 2000
         },
         "date": "2023-10-25",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id":88,
@@ -1426,7 +1511,8 @@
           "value": 1800
         },
         "date": "2023-08-13",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       },
       {
         "id": 89,
@@ -1441,7 +1527,8 @@
           "value": 2000
         },
         "date": "2023-10-04",
-        "type": "rent"
+        "type": "rent",
+        "propertyType":"house"
       },
       {
         "id": 90,
@@ -1456,7 +1543,8 @@
           "value": 1800
         },
         "date": "2023-11-22",
-        "type": "rent"    
+        "type": "rent",
+        "propertyType":"house"    
       }
       
     ]

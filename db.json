@@ -1547,6 +1547,31 @@
         "propertyType":"house"    
       }
       
+    ],
+
+    "customers":[
+      {
+        "id": 1,
+        "customer_name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "about": "Loyal customer who frequently purchases electronics."
+      },
+      {
+        "id": 2,
+        "customer_name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "987-654-3210",
+        "about": "New customer interested in home decor."
+      },
+      {
+        "id": 3,
+        "customer_name": "Robert Johnson",
+        "email": "robert.johnson@example.com",
+        "phone": "555-123-4567",
+        "about": "Long-time customer with a preference for outdoor gear."
+      }
     ]
+    
   }
   
